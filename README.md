@@ -1,20 +1,19 @@
-<span style="display: block; text-align: center;"> Hello, I'm Khelil 👋</span>
+ Hello, I'm Khelil 👋
 
-![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
+
+<img src="https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif" alt="Description" width="900">
+
 
 🔭 Actuellement, je suis étudiant à Doranco
 
 💻 **Développeur passionné** 
 
+
 ⚡**Mes Competences** 
 
--HTML/CSS  
+-HTML/CSS &emsp;    -PYTHON
 
--PYTHON
-
--MySQL/NoSQL
-
--Développement backend & frontend.
+-MySQL/NoSQL&emsp;  -Développement backend & frontend.
 
 
 🌱 **Ce que j'apprends actuellement** :
@@ -23,13 +22,9 @@
 
 💡 **Mes centres d'intérêt** :)
 
-✨Sports                                                
+✨Sports   &emsp; ✨Video Games
 
-✨Video Games
-
-✨Anime
-
-✨Read
+✨Anime &emsp; ✨Read
 
 
 📫 **Contactez-moi** :
