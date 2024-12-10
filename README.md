@@ -1,4 +1,18 @@
-## Hi there 👋,i'm Billel 
+🌟 Hello, World! I'm Khelil 🌟
+💻 Développeur passionné 
+
+🔭 Actuellement, je suis étudiant à Doranco
+
+🌱 Ce que j'apprends actuellement :
+-JavaScript
+
+💡 Mes centres d'intérêt :
+
+Développement backend & frontend.
+.
+📫 Contactez-moi :
+
+✉️ Email : billelkhelil38@gmail.com
 
 <!--
 **billel2301/billel2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
