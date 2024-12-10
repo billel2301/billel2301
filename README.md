@@ -1,4 +1,4 @@
- <span style="font-size: 24px;">Hello, World! I'm Khelil</span> 👋
+ <span style="font-size: 40px;">Hello, World! I'm Khelil</span> 👋
 
 ![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
 
