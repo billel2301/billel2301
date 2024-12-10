@@ -1,9 +1,18 @@
 🌟 Hello, World! I'm Khelil 🌟
+![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
+
 
 💻 Développeur passionné 
 
 Développement backend & frontend.
 🔭 Actuellement, je suis étudiant à Doranco
+
+⚡Mes Competences 
+
+![Icône HTML](https://fontawesome.com/icons/html5?f=classic&s=brands)
+![Icône CSS](https://fontawesome.com/icons/css3-alt?f=classic&s=brands)
+![Icône Python](https://fontawesome.com/icons/python?f=brands)
+
 
 🌱 Ce que j'apprends actuellement :
 
@@ -11,7 +20,7 @@ Développement backend & frontend.
 
 💡 Mes centres d'intérêt :)
 
-✨Sports                                                ![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif){: .float-right}
+✨Sports                                                
 ✨Video Games
 ✨Anime
 ✨Read
