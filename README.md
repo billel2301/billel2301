@@ -4,7 +4,7 @@
 
 🔭 Actuellement, je suis étudiant à Doranco
 
-💻 **Développeur passionné** 
+💻 __**Développeur passionné**__ 
 
 
 
