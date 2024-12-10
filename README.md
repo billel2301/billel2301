@@ -1,7 +1,7 @@
  Hello, I'm Khelil 👋
 
 
-<img src="https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif" alt="Description" width="900">
+<img src="https://i.gifer.com/NdRT.gif" alt="Description" width="900">
 
 
 🔭 Actuellement, je suis étudiant à Doranco
