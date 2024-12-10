@@ -1,47 +1,32 @@
- Hello, I'm Khelil Billel 👋
+  Hello, I'm Khelil Billel 👋
 
 
 <img src="https://i.gifer.com/NdRT.gif" alt="Description" width="900">
 
 
-🔭 Actuellement, je suis étudiant à Doranco
+🔭 Actually, I'm a student at DORANCO School
 
-💻 **Développeur passionné** 
+💻 **Passionate developer** 
 
 
-⚡**Mes Competences** 
+⚡**My Skills** 
 
 -HTML/CSS &emsp;    -PYTHON
 
 -MySQL/NoSQL&emsp;  -Développement backend & frontend.
 
 
-🌱 **Ce que j'apprends actuellement** :
+🌱 **What I learn now** :
 
 -JavaScript
 
-💡 **Mes centres d'intérêt** :)
+💡 **Hobbies** :)
 
 ✨Sports   &emsp; ✨Video Games
 
 ✨Anime &emsp; ✨Read
 
 
-📫 **Contactez-moi** :
+📫 **Contact-me** :
 
 ✉️ Email : billelkhelil38@gmail.com
-
-<!--
-**billel2301/billel2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
