@@ -8,7 +8,13 @@ Hello, World! I'm Khelil 👋
 
 ⚡**Mes Competences** 
 
-Développement backend & frontend.
+-HTML/CSS  
+
+-PYTHON
+
+-MySQL/NoSQL
+
+-Développement backend & frontend.
 
 
 🌱 **Ce que j'apprends actuellement** :
