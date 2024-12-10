@@ -11,8 +11,7 @@ Développement backend & frontend.
 
 💡 Mes centres d'intérêt :)
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fsonic-gifs&psig=AOvVaw0JXRGxferrSWG_E1afI1f4&ust=1733923188934000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC0jbOlnYoDFQAAAAAdAAAAABAJ)
-
+![Alt text](https://media.tenor.com/hvh0ucb7o-4AAAAM/sonic-devil.gif)
 
 
 📫 Contactez-moi :
