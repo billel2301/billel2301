@@ -11,7 +11,7 @@ Développement backend & frontend.
 
 💡 Mes centres d'intérêt :)
 
-✨Sports                                                                  ![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
+✨Sports                                                ![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif){: .float-right}
 ✨Video Games
 ✨Anime
 ✨Read
