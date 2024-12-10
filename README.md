@@ -1,6 +1,6 @@
- <span style="font-size: 40px;">Hello, World! I'm Khelil</span> 👋
+Hello, World! I'm Khelil 👋
 
-![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
+![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif){: width="300" height="200"}
 
 🔭 Actuellement, je suis étudiant à Doranco
 
