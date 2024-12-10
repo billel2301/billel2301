@@ -2,15 +2,17 @@
 
 💻 Développeur passionné 
 
+Développement backend & frontend.
 🔭 Actuellement, je suis étudiant à Doranco
 
 🌱 Ce que j'apprends actuellement :
 
 -JavaScript
 
-💡 Mes centres d'intérêt :
+💡 Mes centres d'intérêt :)
 
-Développement backend & frontend.
+![Alt text]([URL_du_GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fsonic-gifs&psig=AOvVaw0JXRGxferrSWG_E1afI1f4&ust=1733923188934000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC0jbOlnYoDFQAAAAAdAAAAABAJ))
+
 
 
 📫 Contactez-moi :
