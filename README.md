@@ -20,8 +20,11 @@ Développement backend & frontend.
 💡 Mes centres d'intérêt :)
 
 ✨Sports                                                
+
 ✨Video Games
+
 ✨Anime
+
 ✨Read
 
 
