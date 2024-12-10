@@ -4,20 +4,20 @@
 
 🔭 Actuellement, je suis étudiant à Doranco
 
-💻 Développeur passionné 
+💻 **Développeur passionné** 
 
 
 
-⚡Mes Competences 
+⚡**Mes Competences** 
 
 Développement backend & frontend.
 
 
-🌱 Ce que j'apprends actuellement :
+🌱 **Ce que j'apprends actuellement** :
 
 -JavaScript
 
-💡 Mes centres d'intérêt :)
+💡 **Mes centres d'intérêt** :)
 
 ✨Sports                                                
 
@@ -28,7 +28,7 @@ Développement backend & frontend.
 ✨Read
 
 
-📫 Contactez-moi :
+📫 **Contactez-moi** :
 
 ✉️ Email : billelkhelil38@gmail.com
 
