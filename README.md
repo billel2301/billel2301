@@ -11,7 +11,10 @@ Développement backend & frontend.
 
 💡 Mes centres d'intérêt :)
 
-![Alt text](https://media.tenor.com/hvh0ucb7o-4AAAAM/sonic-devil.gif)
+✨Sports                     ![Alt text]((https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
+✨Video Games
+✨Anime
+✨Read
 
 
 📫 Contactez-moi :
