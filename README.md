@@ -1,12 +1,10 @@
-🌟 __Hello, World! I'm Khelil__ 🌟
+🌟 Hello, World! I'm Khelil 🌟
 
 ![Alt text](https://media1.tenor.com/m/i04KP9adlJ4AAAAd/choso-choso-jjk.gif)
 
 🔭 Actuellement, je suis étudiant à Doranco
 
-💻 __**Développeur passionné**__ 
-
-
+💻 **Développeur passionné** 
 
 ⚡**Mes Competences** 
 
