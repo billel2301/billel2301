@@ -11,9 +11,9 @@
 
 ⚡**My Skills** 
 
-- HTML/CSS &emsp;    - PYTHON
+-HTML/CSS &emsp;    -PYTHON
 
-- MySQL/NoSQL&emsp;  
+-MySQL/NoSQL &emsp;  
 
 
 🌱 **What I learn now** :
