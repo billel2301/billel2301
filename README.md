@@ -11,14 +11,15 @@
 
 ⚡**My Skills** 
 
--HTML/CSS &emsp;    -PYTHON
+- HTML/CSS &emsp;    - PYTHON
 
--MySQL/NoSQL&emsp;  -Développement backend & frontend.
+- MySQL/NoSQL&emsp;  
 
 
 🌱 **What I learn now** :
 
--JavaScript
+- JavaScript &emsp; - PHP
+- Laravel
 
 💡 **Hobbies** :)
 
